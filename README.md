@@ -42,4 +42,4 @@ To start a new game, tap the "Reset" button.
 Any contributions to improve the game are welcome! If you have any suggestions, bug fixes, or new features, please submit a pull request.
 
 ## Authors
-Your Name - https://adityabhamare10
+Aditya Bhamare - https://adityabhamare10
