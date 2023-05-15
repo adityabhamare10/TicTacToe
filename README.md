@@ -21,7 +21,10 @@ An Android device or emulator to run the game
 
 ## Installation
 1.Clone the repository to your local machine using the following command:
-git clone https://github.com/adityabhamare10/TicTacToe.git
+git clone
+
+https://github.com/adityabhamare10/TicTacToe.git
+
 2.Open Android Studio and select "Open an existing Android Studio project".
 
 3.Navigate to the cloned project directory and select the project.
